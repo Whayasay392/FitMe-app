@@ -1,0 +1,78 @@
+*   {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body    {
+    
+   
+}
+#jumbotron  {
+    height: 1273px;
+    background-image: url('/assets/images/herobg.png');
+    background-position: center;
+     background-repeat: no-repeat; 
+    background-size: cover;
+}
+#nav-section    {
+    width: 100vw;
+}
+
+nav ul  {
+    width: 55rem;
+    background: #35B0AB;
+    top: 0;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+a   {
+    font-size: 12px;
+}
+#hero-section   {
+   
+    width: 100vw;
+}
+#hero-paragraph {
+    font-size: 18px;
+    font-weight: 600;
+
+}
+#hero-intro {
+    font-size: 36px;
+}
+#app-name   {
+    font-size: 144px;
+    font-weight: 900;
+    font-style: italic;
+}
+#timer  {
+    font-size: 28px;
+}
+#hero-second-paragraph  {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#aboutus-section    {
+
+}
+#about-box1, #about-box3   {
+    background: #EFEFEF;
+}
+#about-box2    {
+    box-shadow: slategray;
+}
+#about-us-heading   {
+    font-size: 36px;
+    line-height: 54px;
+    font-weight: 700;
+}
+
+#aboutus-sub-heading    {
+    font-size: 20px;
+    font-weight: 600;
+}
+#aboutus-paragraph  {
+    font-size: 16px;
+    line-height: 24px;
+}
